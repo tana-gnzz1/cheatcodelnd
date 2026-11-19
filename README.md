@@ -1,5 +1,5 @@
 # cheatcodelnd
-<!-- MODEL 1 - EXERCISE 1 (Justo debajo de header) 
+<!-- MODEL 1 - EXERCISE 1 (Justo debajo de header) dos columnas ,
 <section id="exercise-one-section" class="exercise-one">
     <h2 class="exercise-one-title">Ejercicio 1</h2>
     <div class="exercise-one-container">
@@ -26,7 +26,7 @@
     </div>
 </section>
 //--------------------------------------------------------------------------------------------------------------------//
-<!-- MODEL 1 - EXERCISE 2 (Justo antes de footer) -->
+<!-- MODEL 1 - EXERCISE 2 (Justo antes de footer) --> 3 columnas
 <section id="exercise-two-section" class="exercise-two">
     <h2 class="exercise-two-title">Ejercicio 2</h2>
     <div class="exercise-two-container">
