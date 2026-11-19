@@ -1,5 +1,5 @@
 # cheatcodelnd
-<!-- MODEL 1 - EXERCISE 1 (Justo debajo de header) -->
+<!-- MODEL 1 - EXERCISE 1 (Justo debajo de header) 
 <section id="exercise-one-section" class="exercise-one">
     <h2 class="exercise-one-title">Ejercicio 1</h2>
     <div class="exercise-one-container">
@@ -609,3 +609,4 @@
         object-fit: cover;
     }
 }
+-->
